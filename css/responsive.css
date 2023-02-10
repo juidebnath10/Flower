@@ -1,0 +1,132 @@
+@media (min-width: 279px) and ( max-width: 319px){
+/* css code start */
+.header .banner {
+    width: 100%;
+    padding: 80px 0px;
+}
+
+.header .banner .title-banner {
+    width: 100%;
+    padding: 20px 0px 0px 7px;
+}
+
+.header .banner .title-banner h1{
+    font-size: 66px;
+    line-height: 70px;
+}
+
+.header .banner .double-button {
+    padding: 0px 0px 0px 7px;
+}
+.slider .owl-carousel .slider-img {
+    margin: 80px -10px;
+    height: 200px;
+    width: 200px;
+}
+
+.slider .owl-carousel .slider-title {
+    margin: 2px -31px 60px;
+}
+/* css code end */
+}
+
+@media (min-width: 320px) and ( max-width: 480px){
+/* css code start */
+.header .banner {
+    width: 100%;
+    padding: 90px 0px;
+}
+
+.header .banner .title-banner {
+    width: 100%;
+    padding: 20px 0px 0px 7px;
+}
+
+.header .banner .title-banner h1{
+    font-size: 70px;
+    line-height: 66px;
+}
+
+.header .banner .double-button {
+    padding: 0px 0px 0px 7px;
+}
+.slider .owl-carousel .slider-img {
+    margin: 80px -10px;
+    height: 200px;
+    width: 200px;
+}
+
+.slider .owl-carousel .slider-title {
+    margin: 2px -31px 60px;
+}
+/* css code end */
+}
+
+@media (min-width: 481px) and ( max-width: 767px){
+/* css code start */
+.header .banner {
+    width: 100%;
+    padding: 100px 0px;
+}
+
+.header .banner .title-banner {
+    width: 100%;
+    padding: 20px 0px 0px 7px;
+}
+
+.header .banner .title-banner h1{
+    font-size: 72px;
+    line-height: 68px;
+}
+
+.header .banner .double-button {
+    padding: 0px 0px 0px 7px;
+}
+.slider .owl-carousel .slider-img {
+    margin: 80px -10px;
+    height: 200px;
+    width: 200px;
+}
+
+.slider .owl-carousel .slider-title {
+    margin: 2px -31px 60px;
+}
+/* css code end */
+}
+
+@media (min-width: 768px) and ( max-width: 1024px){
+/* css code start */
+.header .banner {
+    width: 100%;
+    padding: 83px 0px;
+}
+
+.header .banner .title-banner {
+    width: 100%;
+    padding: 20px 0px 0px 7px;
+}
+
+.header .banner .title-banner h1{
+    font-size: 74px;
+    line-height: 70px;
+}
+
+.header .banner .double-button {
+    padding: 0px 0px 0px 7px;
+}
+
+.box .item .img-fluid {
+    height: 150px;
+    width: 150px;
+}
+.slider .owl-carousel .slider-img {
+    margin: 80px -10px;
+    height: 200px;
+    width: 200px;
+}
+
+.slider .owl-carousel .slider-title {
+    margin: 2px -31px 60px;
+}
+/* css code end */
+}
